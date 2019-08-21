@@ -1,3 +1,29 @@
+## Hackathon Project
+This Sales Leaderboard is a tool to display in your break rooms and on your dealership floor that provides transparency in productivity in friendly competition for variable rewards, to boost sales, increase productivity, and retain salespeople.
+
+The main display can be customized by your General Manager, including themed colour palettes, variable widgets, and inclusion/exclusion of employees from the leadership tally.
+
+Widgets available include: Weather, Progress Tracker, Leaderboard, Announcements, Top Seller, Monthly Sales Graphs, Vehicles Sold by Day of the Week Graphs, New/Used/Combined Vehicles Sold Stats.
+
+
+## Submission description
+
+Dealerships have high salespeople turnover; salesperson retention is difficult. 
+
+Wouldn't it be great to increase productivity and sales, increase inspiration among your employees, and boost confidence and optimism in your employees? How about having not only happy employees, but employees that will stay because they love working at your dealership? Employees need more motivation, they need to feel inspired; they want to feel excited to go to work. And when they feel excited to work for your dealership, loyalty keeps them coming back.
+
+How, you say?
+
+Achievement and motivation are strictly related concepts. People need to feel motivated in order to act, and motivation is boosted by achievements. Research shows that our feel-good hormone, dopamine, surges when the brain anticipates reward. Introducing variable rewards multiplies the effect, creating a hunting state that activates the part of the brain associated with want and desire.
+
+This Sales Leaderboard is a tool to display in your break rooms and on your dealership floor that provides transparency in productivity in friendly competition for variable rewards. The final (and intermittent) rewards can be up to the dealership's GM.
+
+We provide the tool to boost sales, increase productivity, and retain salespeople, so you can continue running a smooth and well-oiled dealership.
+
+
+
+## REACT WEBSITE:
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
